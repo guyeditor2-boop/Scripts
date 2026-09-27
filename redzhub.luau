@@ -1,5 +1,3 @@
--- i love tomboys lol
-
 local v1 = game:GetService("ReplicatedStorage")
 local v2 = require(v1.Effect.Container.Death)
 hookfunction(v2, function() end)
