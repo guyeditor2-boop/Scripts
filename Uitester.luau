@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("YOUR_RAW_LIBRARY_URL"))()
+local Library = https://raw.githubusercontent.com/guyeditor2-boop/Scripts/refs/heads/main/Library/Uiv2.luau
 
 local Window = Library:CreateWindow({
     Title = "Example Hub",
